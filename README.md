@@ -16,8 +16,18 @@ I developed a Password Strength Checker which is a Python tool designed to evalu
 
 **Code Explanation**
 
-Function Definition:This line defines a function named checkPassword that takes a single parameter password.
+•Function Definition:This line defines a function named checkPassword that takes a single parameter password.
 
 ![image](https://github.com/user-attachments/assets/9f3840a8-8feb-4bd7-a908-a7d9ce68b6b6)
+
+**Initializing Counters**
+•	upperChars: Counter for uppercase characters in the password.
+•	lowerChars: Counter for lowercase characters in the password.
+•	specialChars: Counter for special characters in the password.
+•	digits: Counter for numeric digits in the password.
+•	length: Stores the length of the password using the len() function.
+
+![image](https://github.com/user-attachments/assets/74aafb1d-3f47-436c-bc4a-874d1260c041)
+
 
 
