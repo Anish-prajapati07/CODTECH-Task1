@@ -23,7 +23,7 @@ def checkPassword(password):
             print("The strength of password is medium.\n")
     else:
         print("\nPassword is weak")
-        print("Do this to make password stronger:\n")
+        print("\nFeedback\n")
         if (upperChars == 0):
             print("Password must contain at least 1 uppercase character\n")
         if (lowerChars == 0):
