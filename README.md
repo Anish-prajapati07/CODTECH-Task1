@@ -81,8 +81,7 @@ This checks if the password is shorter than 6 characters. If it is, it prints a 
 
 **Providing Feedback for Missing Requirements**
 
-![image](https://github.com/user-attachments/assets/07fba024-b9a7-4829-b2cb-ac2bd195ec69)
-
+![image](https://github.com/user-attachments/assets/363252aa-9de4-4b07-b4da-6fc0043d6f50)
 
 •	If the password does not meet the requirement of having at least one of each character type, this block provides specific feedback about what is missing:
 
@@ -104,10 +103,11 @@ This checks if the password is shorter than 6 characters. If it is, it prints a 
 
 **Output**
 output 1
-![image](https://github.com/user-attachments/assets/59e9e81f-c779-409d-a297-b180c8929bb6)
+![image](https://github.com/user-attachments/assets/46d61cfc-7f27-42bc-99cf-e8f2cdf22dfb)
 
 output 2
-![image](https://github.com/user-attachments/assets/a3710388-f0af-4208-afbd-87ca8e260198)
+![image](https://github.com/user-attachments/assets/8b253d46-f2da-4a3e-ad3e-ab3be1c36c09)
+
 
 
 
