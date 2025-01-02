@@ -15,6 +15,7 @@ I developed a Password Strength Checker which is a Python tool designed to evalu
 •	Provides feedback on how to strengthen the password
 
 **Code Explanation**
+
 Function Definition:This line defines a function named checkPassword that takes a single parameter password.
 
 ![image](https://github.com/user-attachments/assets/9f3840a8-8feb-4bd7-a908-a7d9ce68b6b6)
