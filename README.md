@@ -102,10 +102,13 @@ This checks if the password is shorter than 6 characters. If it is, it prints a 
 •	checkPassword(password): Calls the checkPassword function with the user’s input.
 
 **Output**
+
 output 1
+
 ![image](https://github.com/user-attachments/assets/46d61cfc-7f27-42bc-99cf-e8f2cdf22dfb)
 
 output 2
+
 ![image](https://github.com/user-attachments/assets/8b253d46-f2da-4a3e-ad3e-ab3be1c36c09)
 
 
